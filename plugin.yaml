@@ -1,0 +1,5 @@
+name: explicit-routing
+version: 1.1.0
+description: "Delegation backend: each delegate_task task may name an exact provider/model (and reasoning effort) via tasks[].route, bounded by the profile's provider policy and an optional allowlist."
+author: Codeseys
+kind: backend
