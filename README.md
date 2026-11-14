@@ -19,7 +19,7 @@ Works on stock Hermes Agent 0.23.x through the public delegation-provider interf
 ## Install
 
 ```sh
-hermes plugins install <git-url-of-this-repo> --commit <sha> --enable
+hermes plugins install <git-url-of-this-repo> --ref <40-character-commit-sha> --enable
 ```
 
 Then select the backend in each profile that should offer it (`config.yaml`):
